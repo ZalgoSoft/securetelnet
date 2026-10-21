@@ -70,3 +70,10 @@ bash tests/run_file_tests.sh
 ```
 
 That completes the tree. Build with `make`, then run `./securetelnet` (no args) to see the runtime-generated help, and `bash tests/run_file_tests.sh --size 32768` to exercise file transfer.
+```
+![2](2.png)
+![2](3.png)
+![2](4.png)
+![2](5.png)
+![2](6.png)
+

@@ -1,7 +1,8 @@
 dropbear-like client-server chat with ssh-like 16 bit integer algos
 
-previous versions, hust proof of concept
+previous versions, just proof of concept
 
+```
 securetelnet
 self-test OK: G=11
 usage:

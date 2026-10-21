@@ -1,3 +1,4 @@
+```
 ./test_algo
 tests: seed=8fceab84 G=11
 test modpow seed=8fceab84
